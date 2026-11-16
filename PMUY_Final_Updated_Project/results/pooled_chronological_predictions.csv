@@ -1,0 +1,208 @@
+District,Year,YearIndex,Connections,Model,Predicted_Connections
+Alipurduar,2019-20,3,6627,Pooled Linear,112466.01449275362
+Bankura,2019-20,3,45069,Pooled Linear,148943.6811594203
+Birbhum,2019-20,3,21645,Pooled Linear,211643.0144927536
+Dakshin Dinajpur,2019-20,3,34480,Pooled Linear,94456.01449275362
+Darjeeling,2019-20,3,4922,Pooled Linear,54406.34782608696
+Haora,2019-20,3,19155,Pooled Linear,76142.68115942029
+Hugli,2019-20,3,31970,Pooled Linear,144421.34782608695
+Jalpaiguri,2019-20,3,15780,Pooled Linear,103229.68115942029
+Jhargram,2019-20,3,10333,Pooled Linear,72045.68115942029
+Kalimpong,2019-20,3,126,Pooled Linear,23450.01449275363
+Koch Bihar,2019-20,3,34586,Pooled Linear,158189.6811594203
+Kolkata,2019-20,3,9027,Pooled Linear,25165.681159420288
+Maldah,2019-20,3,55360,Pooled Linear,168576.0144927536
+Murshidabad,2019-20,3,87883,Pooled Linear,295252.6811594203
+Nadia,2019-20,3,43577,Pooled Linear,176880.6811594203
+North Twenty Four Parganas,2019-20,3,79970,Pooled Linear,193607.0144927536
+Paschim Bardhaman,2019-20,3,16729,Pooled Linear,64334.68115942029
+Paschim Medinipur,2019-20,3,23234,Pooled Linear,200943.0144927536
+Purba Bardhaman,2019-20,3,23407,Pooled Linear,188337.0144927536
+Purba Medinipur,2019-20,3,65248,Pooled Linear,168527.34782608695
+Puruliya,2019-20,3,38962,Pooled Linear,93222.0144927536
+South Twenty Four Parganas,2019-20,3,78149,Pooled Linear,257193.34782608697
+Uttar Dinajpur,2019-20,3,48137,Pooled Linear,141061.0144927536
+Alipurduar,2020-21,4,0,Pooled Linear,19003.58695652167
+Bankura,2020-21,4,0,Pooled Linear,55972.336956521685
+Birbhum,2020-21,4,0,Pooled Linear,97140.83695652169
+Dakshin Dinajpur,2020-21,4,0,Pooled Linear,12459.33695652167
+Darjeeling,2020-21,4,0,Pooled Linear,-24967.41304347836
+Haora,2020-21,4,0,Pooled Linear,-5106.913043478329
+Hugli,2020-21,4,0,Pooled Linear,49305.836956521685
+Jalpaiguri,2020-21,4,0,Pooled Linear,14364.58695652167
+Jhargram,2020-21,4,0,Pooled Linear,-10385.16304347833
+Kalimpong,2020-21,4,0,Pooled Linear,-49383.6630434783
+Koch Bihar,2020-21,4,0,Pooled Linear,60286.086956521685
+Kolkata,2020-21,4,0,Pooled Linear,-45871.66304347836
+Maldah,2020-21,4,0,Pooled Linear,73269.33695652169
+Murshidabad,2020-21,4,0,Pooled Linear,176407.5869565217
+Nadia,2020-21,4,0,Pooled Linear,76552.08695652169
+North Twenty Four Parganas,2020-21,4,0,Pooled Linear,98195.08695652169
+Paschim Bardhaman,2020-21,4,0,Pooled Linear,-14569.41304347833
+Paschim Medinipur,2020-21,4,0,Pooled Linear,89513.08695652169
+Purba Bardhaman,2020-21,4,0,Pooled Linear,80101.83695652169
+Purba Medinipur,2020-21,4,0,Pooled Linear,75704.83695652169
+Puruliya,2020-21,4,0,Pooled Linear,12654.33695652167
+South Twenty Four Parganas,2020-21,4,0,Pooled Linear,145429.5869565217
+Uttar Dinajpur,2020-21,4,0,Pooled Linear,50827.336956521685
+Alipurduar,2021-22,5,16750,Pooled Linear,-32321.05217391273
+Bankura,2021-22,5,169616,Pooled Linear,-2746.052173912729
+Birbhum,2021-22,5,139431,Pooled Linear,30188.74782608729
+Dakshin Dinajpur,2021-22,5,59099,Pooled Linear,-37556.45217391272
+Darjeeling,2021-22,5,12866,Pooled Linear,-67497.85217391272
+Haora,2021-22,5,31275,Pooled Linear,-51609.45217391272
+Hugli,2021-22,5,71632,Pooled Linear,-8079.252173912711
+Jalpaiguri,2021-22,5,30936,Pooled Linear,-36032.25217391271
+Jhargram,2021-22,5,42214,Pooled Linear,-55832.05217391273
+Kalimpong,2021-22,5,789,Pooled Linear,-87030.85217391275
+Koch Bihar,2021-22,5,55730,Pooled Linear,704.9478260872711
+Kolkata,2021-22,5,12692,Pooled Linear,-84221.25217391277
+Maldah,2021-22,5,145473,Pooled Linear,11091.547826087277
+Murshidabad,2021-22,5,234643,Pooled Linear,93602.14782608728
+Nadia,2021-22,5,135814,Pooled Linear,13717.747826087289
+North Twenty Four Parganas,2021-22,5,168448,Pooled Linear,31032.147826087283
+Paschim Bardhaman,2021-22,5,25605,Pooled Linear,-59179.45217391272
+Paschim Medinipur,2021-22,5,84776,Pooled Linear,24086.547826087277
+Purba Bardhaman,2021-22,5,129795,Pooled Linear,16557.547826087277
+Purba Medinipur,2021-22,5,137605,Pooled Linear,13039.947826087271
+Puruliya,2021-22,5,141167,Pooled Linear,-37400.45217391272
+South Twenty Four Parganas,2021-22,5,182175,Pooled Linear,68819.74782608727
+Uttar Dinajpur,2021-22,5,67842,Pooled Linear,-6862.052173912729
+Alipurduar,2019-20,3,6627,Pooled Polynomial,145321.1594203344
+Bankura,2019-20,3,45069,Pooled Polynomial,181798.82608700113
+Birbhum,2019-20,3,21645,Pooled Polynomial,244498.15942033444
+Dakshin Dinajpur,2019-20,3,34480,Pooled Polynomial,127311.15942033449
+Darjeeling,2019-20,3,4922,Pooled Polynomial,87261.49275366776
+Haora,2019-20,3,19155,Pooled Polynomial,108997.82608700113
+Hugli,2019-20,3,31970,Pooled Polynomial,177276.4927536678
+Jalpaiguri,2019-20,3,15780,Pooled Polynomial,136084.8260870011
+Jhargram,2019-20,3,10333,Pooled Polynomial,104900.82608700107
+Kalimpong,2019-20,3,126,Pooled Polynomial,56305.159420334414
+Koch Bihar,2019-20,3,34586,Pooled Polynomial,191044.82608700107
+Kolkata,2019-20,3,9027,Pooled Polynomial,58020.82608700107
+Maldah,2019-20,3,55360,Pooled Polynomial,201431.15942033438
+Murshidabad,2019-20,3,87883,Pooled Polynomial,328107.8260870012
+Nadia,2019-20,3,43577,Pooled Polynomial,209735.82608700113
+North Twenty Four Parganas,2019-20,3,79970,Pooled Polynomial,226462.15942033444
+Paschim Bardhaman,2019-20,3,16729,Pooled Polynomial,97189.8260870011
+Paschim Medinipur,2019-20,3,23234,Pooled Polynomial,233798.15942033444
+Purba Bardhaman,2019-20,3,23407,Pooled Polynomial,221192.15942033438
+Purba Medinipur,2019-20,3,65248,Pooled Polynomial,201382.49275366782
+Puruliya,2019-20,3,38962,Pooled Polynomial,126077.15942033449
+South Twenty Four Parganas,2019-20,3,78149,Pooled Polynomial,290048.4927536678
+Uttar Dinajpur,2019-20,3,48137,Pooled Polynomial,173916.15942033447
+Alipurduar,2020-21,4,0,Pooled Polynomial,-102028.20652086847
+Bankura,2020-21,4,0,Pooled Polynomial,-65059.456520868465
+Birbhum,2020-21,4,0,Pooled Polynomial,-23890.956520868465
+Dakshin Dinajpur,2020-21,4,0,Pooled Polynomial,-108572.45652086844
+Darjeeling,2020-21,4,0,Pooled Polynomial,-145999.20652086847
+Haora,2020-21,4,0,Pooled Polynomial,-126138.70652086847
+Hugli,2020-21,4,0,Pooled Polynomial,-71725.95652086847
+Jalpaiguri,2020-21,4,0,Pooled Polynomial,-106667.20652086844
+Jhargram,2020-21,4,0,Pooled Polynomial,-131416.95652086844
+Kalimpong,2020-21,4,0,Pooled Polynomial,-170415.45652086844
+Koch Bihar,2020-21,4,0,Pooled Polynomial,-60745.706520868465
+Kolkata,2020-21,4,0,Pooled Polynomial,-166903.45652086844
+Maldah,2020-21,4,0,Pooled Polynomial,-47762.456520868465
+Murshidabad,2020-21,4,0,Pooled Polynomial,55375.793479131506
+Nadia,2020-21,4,0,Pooled Polynomial,-44479.706520868465
+North Twenty Four Parganas,2020-21,4,0,Pooled Polynomial,-22836.706520868465
+Paschim Bardhaman,2020-21,4,0,Pooled Polynomial,-135601.20652086844
+Paschim Medinipur,2020-21,4,0,Pooled Polynomial,-31518.706520868436
+Purba Bardhaman,2020-21,4,0,Pooled Polynomial,-40929.956520868465
+Purba Medinipur,2020-21,4,0,Pooled Polynomial,-45326.956520868465
+Puruliya,2020-21,4,0,Pooled Polynomial,-108377.45652086847
+South Twenty Four Parganas,2020-21,4,0,Pooled Polynomial,24397.793479131564
+Uttar Dinajpur,2020-21,4,0,Pooled Polynomial,-70204.45652086847
+Alipurduar,2021-22,5,16750,Pooled Polynomial,-125816.53043614238
+Bankura,2021-22,5,169616,Pooled Polynomial,-96241.53043614238
+Birbhum,2021-22,5,139431,Pooled Polynomial,-63306.73043614239
+Dakshin Dinajpur,2021-22,5,59099,Pooled Polynomial,-131051.93043614234
+Darjeeling,2021-22,5,12866,Pooled Polynomial,-160993.33043614237
+Haora,2021-22,5,31275,Pooled Polynomial,-145104.93043614237
+Hugli,2021-22,5,71632,Pooled Polynomial,-101574.73043614239
+Jalpaiguri,2021-22,5,30936,Pooled Polynomial,-129527.73043614236
+Jhargram,2021-22,5,42214,Pooled Polynomial,-149327.53043614235
+Kalimpong,2021-22,5,789,Pooled Polynomial,-180526.33043614237
+Koch Bihar,2021-22,5,55730,Pooled Polynomial,-92790.53043614238
+Kolkata,2021-22,5,12692,Pooled Polynomial,-177716.73043614233
+Maldah,2021-22,5,145473,Pooled Polynomial,-82403.93043614237
+Murshidabad,2021-22,5,234643,Pooled Polynomial,106.66956385760568
+Nadia,2021-22,5,135814,Pooled Polynomial,-79777.73043614239
+North Twenty Four Parganas,2021-22,5,168448,Pooled Polynomial,-62463.330436142365
+Paschim Bardhaman,2021-22,5,25605,Pooled Polynomial,-152674.93043614237
+Paschim Medinipur,2021-22,5,84776,Pooled Polynomial,-69408.93043614237
+Purba Bardhaman,2021-22,5,129795,Pooled Polynomial,-76937.93043614237
+Purba Medinipur,2021-22,5,137605,Pooled Polynomial,-80455.53043614238
+Puruliya,2021-22,5,141167,Pooled Polynomial,-130895.93043614237
+South Twenty Four Parganas,2021-22,5,182175,Pooled Polynomial,-24675.73043614239
+Uttar Dinajpur,2021-22,5,67842,Pooled Polynomial,-100357.53043614238
+Alipurduar,2019-20,3,6627,Pooled Ridge,118531.87215320911
+Bankura,2019-20,3,45069,Pooled Ridge,145890.12215320911
+Birbhum,2019-20,3,21645,Pooled Ridge,192914.62215320911
+Dakshin Dinajpur,2019-20,3,34480,Pooled Ridge,105024.37215320911
+Darjeeling,2019-20,3,4922,Pooled Ridge,74987.1221532091
+Haora,2019-20,3,19155,Pooled Ridge,91289.37215320911
+Hugli,2019-20,3,31970,Pooled Ridge,142498.37215320911
+Jalpaiguri,2019-20,3,15780,Pooled Ridge,111604.62215320911
+Jhargram,2019-20,3,10333,Pooled Ridge,88216.62215320911
+Kalimpong,2019-20,3,126,Pooled Ridge,51769.872153209115
+Koch Bihar,2019-20,3,34586,Pooled Ridge,152824.62215320911
+Kolkata,2019-20,3,9027,Pooled Ridge,53056.6221532091
+Maldah,2019-20,3,55360,Pooled Ridge,160614.37215320911
+Murshidabad,2019-20,3,87883,Pooled Ridge,255621.87215320914
+Nadia,2019-20,3,43577,Pooled Ridge,166842.87215320911
+North Twenty Four Parganas,2019-20,3,79970,Pooled Ridge,179387.62215320911
+Paschim Bardhaman,2019-20,3,16729,Pooled Ridge,82433.37215320911
+Paschim Medinipur,2019-20,3,23234,Pooled Ridge,184889.62215320911
+Purba Bardhaman,2019-20,3,23407,Pooled Ridge,175435.12215320911
+Purba Medinipur,2019-20,3,65248,Pooled Ridge,160577.87215320911
+Puruliya,2019-20,3,38962,Pooled Ridge,104098.87215320911
+South Twenty Four Parganas,2019-20,3,78149,Pooled Ridge,227077.37215320911
+Uttar Dinajpur,2019-20,3,48137,Pooled Ridge,139978.12215320911
+Alipurduar,2020-21,4,0,Pooled Ridge,24769.805212716296
+Bankura,2020-21,4,0,Pooled Ridge,54344.805212716296
+Birbhum,2020-21,4,0,Pooled Ridge,87279.60521271628
+Dakshin Dinajpur,2020-21,4,0,Pooled Ridge,19534.4052127163
+Darjeeling,2020-21,4,0,Pooled Ridge,-10406.994787283693
+Haora,2020-21,4,0,Pooled Ridge,5481.405212716301
+Hugli,2020-21,4,0,Pooled Ridge,49011.60521271629
+Jalpaiguri,2020-21,4,0,Pooled Ridge,21058.6052127163
+Jhargram,2020-21,4,0,Pooled Ridge,1258.8052127162955
+Kalimpong,2020-21,4,0,Pooled Ridge,-29939.994787283693
+Koch Bihar,2020-21,4,0,Pooled Ridge,57795.805212716296
+Kolkata,2020-21,4,0,Pooled Ridge,-27130.394787283687
+Maldah,2020-21,4,0,Pooled Ridge,68182.4052127163
+Murshidabad,2020-21,4,0,Pooled Ridge,150693.0052127163
+Nadia,2020-21,4,0,Pooled Ridge,70808.60521271628
+North Twenty Four Parganas,2020-21,4,0,Pooled Ridge,88123.00521271629
+Paschim Bardhaman,2020-21,4,0,Pooled Ridge,-2088.5947872836987
+Paschim Medinipur,2020-21,4,0,Pooled Ridge,81177.40521271629
+Purba Bardhaman,2020-21,4,0,Pooled Ridge,73648.40521271629
+Purba Medinipur,2020-21,4,0,Pooled Ridge,70130.80521271628
+Puruliya,2020-21,4,0,Pooled Ridge,19690.4052127163
+South Twenty Four Parganas,2020-21,4,0,Pooled Ridge,125910.60521271627
+Uttar Dinajpur,2020-21,4,0,Pooled Ridge,50228.805212716296
+Alipurduar,2021-22,5,16750,Pooled Ridge,-28081.13543228348
+Bankura,2021-22,5,169616,Pooled Ridge,-3435.302098950153
+Birbhum,2021-22,5,139431,Pooled Ridge,24010.364567716504
+Dakshin Dinajpur,2021-22,5,59099,Pooled Ridge,-32443.968765616824
+Darjeeling,2021-22,5,12866,Pooled Ridge,-57395.13543228348
+Haora,2021-22,5,31275,Pooled Ridge,-44154.80209895015
+Hugli,2021-22,5,71632,Pooled Ridge,-7879.635432283496
+Jalpaiguri,2021-22,5,30936,Pooled Ridge,-31173.802098950153
+Jhargram,2021-22,5,42214,Pooled Ridge,-47673.63543228348
+Kalimpong,2021-22,5,789,Pooled Ridge,-73672.63543228348
+Koch Bihar,2021-22,5,55730,Pooled Ridge,-559.4687656168244
+Kolkata,2021-22,5,12692,Pooled Ridge,-71331.30209895017
+Maldah,2021-22,5,145473,Pooled Ridge,8096.031234383176
+Murshidabad,2021-22,5,234643,Pooled Ridge,76854.86456771647
+Nadia,2021-22,5,135814,Pooled Ridge,10284.531234383176
+North Twenty Four Parganas,2021-22,5,168448,Pooled Ridge,24713.197901049833
+Paschim Bardhaman,2021-22,5,25605,Pooled Ridge,-50463.13543228348
+Paschim Medinipur,2021-22,5,84776,Pooled Ridge,18925.197901049847
+Purba Bardhaman,2021-22,5,129795,Pooled Ridge,12651.031234383176
+Purba Medinipur,2021-22,5,137605,Pooled Ridge,9719.697901049833
+Puruliya,2021-22,5,141167,Pooled Ridge,-32313.968765616824
+South Twenty Four Parganas,2021-22,5,182175,Pooled Ridge,56202.864567716504
+Uttar Dinajpur,2021-22,5,67842,Pooled Ridge,-6865.302098950153
